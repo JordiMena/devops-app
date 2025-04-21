@@ -17,3 +17,5 @@ docker-compose up --build
 
 ## 🧱 Estructura del Proyecto
 devops-app/ │ ├── frontend/ # HTML/CSS/JS ├── backend/ # API de Node.js │ └── test/ # Pruebas automatizadas ├── docker-compose.yml # Organizador de contenedores ├── .github/ │ └── workflows/ │ └── ci.yml # Pipeline CI/CD └── README.md
+
+![image](https://github.com/user-attachments/assets/b49cc479-5ada-4f7a-a95c-830e335276a5)
